@@ -1,2 +1,4 @@
+/scripts/venv
+/scripts/.env
 /target
 /Cargo.lock
